@@ -1,0 +1,9 @@
+{
+  "name": "MF360",
+  "displayName": "MF360",
+  "splash": {
+    "image": "./assets/distributionimg1.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  }
+}
